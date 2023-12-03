@@ -2,6 +2,16 @@
 
 L'objectif de cette application, est de Savoir pour chaque Grand Prix (circuit), quelles seront les gatégories qui rouleront sur le circuit en meme temps que la F1 lors de la saison 2024 de Formule 1.
 
+Savoir pour un circuit donné, quelle catégorie de support rouleront en même temps que la F1.
+
+Ex: Je souhaite savoir quelle catégorie sera présente lors du Grand Prix de Belgique, ainsi j'aurais en retour la date du Grand Prix ainsi que les catégories en support de la F1 (F2, F3)
+
+Possible amélioration : Le faire pour d'autre catégorie de sport auto comme le GT, ELMS, WEC. Ainsi cela permet de savoir quelle catégorie rouleront sur les circuit ou la F1 roule mais également les dates de chacunes des catégories en fonction du circuit demandé.
+
+## Mise en place 
+Le voir sous forme de micro-service. Le faire avec une base de données, une partie back, et pourquoi pas une partie front (en plus).
+Une base par catégorie (entité). 
+
 ## Entités
 
 ### Les circuits
