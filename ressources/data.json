@@ -1,0 +1,16 @@
+{
+  "ID": 1,
+  "Name": "Updated Grand Prix Name",
+  "Track": {
+    "ID": 1,
+    "Name": "Albert Park Circuit",
+    "Location": "Australia"
+  },
+  "Categories": [
+    {
+      "ID": 1,
+      "Name": "Formuma 1"
+    }
+  ],
+  "Date": "2025-03-16T14:00:00Z"
+}
